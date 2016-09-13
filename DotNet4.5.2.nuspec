@@ -4,7 +4,7 @@
     <version>4.5.2.20140902</version>
     <authors>Microsoft</authors>
     <owners>Toby Brain</owners>
-    <iconUrl>https://github.com/mwrock/Chocolatey-Packages/raw/master/DotNet4.5/dotnet.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/tobio/ChocolateyDotNet4.5.2/7278cce429186aba3dddda50136349dd075d2cf7/dotnet.png</iconUrl>
     <projectUrl>http://www.microsoft.com/en-au/download/details.aspx?id=42642</projectUrl>
     <licenseUrl>http://msdn.microsoft.com/en-US/cc300389.aspx</licenseUrl>
     <id>DotNet4.5.2</id>
