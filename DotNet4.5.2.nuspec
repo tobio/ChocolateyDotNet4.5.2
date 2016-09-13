@@ -12,6 +12,6 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>The Microsoft .NET Framework 4.5.2 is a highly compatible, in-place update to the Microsoft .NET Framework 4, Microsoft .NET Framework 4.5 and Microsoft .NET Framework 4.5.1</description>
     <summary>The Microsoft .NET Framework 4.5.2</summary>
-    <tags>Microsoft .net Framework 4.5.2</tags>
+    <tags>Microsoft .net Framework 4.5.2 admin</tags>
   </metadata>
 </package>
