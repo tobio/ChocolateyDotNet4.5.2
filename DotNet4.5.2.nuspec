@@ -14,4 +14,7 @@
     <summary>The Microsoft .NET Framework 4.5.2</summary>
     <tags>Microsoft .net Framework 4.5.2 admin</tags>
   </metadata>
+  <files>
+    <file src="Tools\*.*" target="Tools" />
+  </files>
 </package>
