@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <version>4.5.2.20140902</version>
+    <version>4.5.2.20160913</version>
     <authors>Microsoft</authors>
     <owners>Toby Brain</owners>
     <iconUrl>https://cdn.rawgit.com/tobio/ChocolateyDotNet4.5.2/7278cce429186aba3dddda50136349dd075d2cf7/dotnet.png</iconUrl>
